@@ -31,7 +31,7 @@ const Berat = () => {
                 break;
         }
 
-        return Number(a * nilai * b).toFixed(4)
+        return a * nilai * b
     }
     //satuan beserta nilanyan
     const satuan = [

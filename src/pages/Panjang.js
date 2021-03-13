@@ -29,7 +29,7 @@ const Panjang = () => {
                 break;
         }
 
-        return Number(a * nilai *  b).toFixed(4)
+        return a * nilai * b
     }
     //satuan beserta nilainya
     const satuan = [
